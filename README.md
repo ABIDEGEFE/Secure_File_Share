@@ -1,3 +1,3 @@
-[text](../Downloads/step1FileShare.drawio)
+![alt text](publicAccess-1.png)
 
-[text](../Downloads/step2FileShare.drawio)
+![alt text](secureAccess-1.png)
