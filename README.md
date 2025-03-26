@@ -4,7 +4,7 @@ In today's fast-paced tech landscape, where security challenges are more pressin
 
 Before configuring private end point and site-to-site VPN
 
-![alt text](secureAccess-1.png)
+![alt text](publicAccess-1.png)
 
 
 # **point-to-site connectivity & Azure File Share Backup**  
@@ -33,7 +33,7 @@ This project demonstrates a **hybrid network setup** integrating an **Azure Virt
 
 ## **Diagram Explanation**  
 
-![alt text](publicAccess-1.png)
+![alt text](secureAccess-1.png)
  
 The diagram illustrates the **end-to-end workflow**, showing:  
 ✅ Hybrid VPN connection setup  
