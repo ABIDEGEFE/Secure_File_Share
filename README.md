@@ -2,6 +2,8 @@ Azure file share
 
 In today's fast-paced tech landscape, where security challenges are more pressing than ever, sensitive document storage demands innovative solutions. Azure File Share stands out as a managed file service that ensures secure and centralized access to your data. By leveraging its integration with private endpoints, Azure File Share enables access to your storage account within your secure network, eliminating exposure to public internet traffic and reinforcing high-level security. It's a game-changer for organizations seeking scalable, reliable, and secure file management systems.
 
+VIDEO DEMO https://youtu.be/3hvWx-FL_Uw
+
 Before configuring private end point and site-to-site VPN
 
 ![alt text](publicAccess-1.png)
